@@ -1,1 +1,1 @@
-# -A10CycloneSA_-
+# A10サイクロンSAをPythonで接続するテスト
